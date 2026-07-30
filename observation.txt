@@ -1,0 +1,15 @@
+1. Handling Missing Values:
+              Missing Price and category found 
+              its filled using median formula and if formulas
+2. Correcting Inconsistent Data:
+              Product name is corrected using Proper Format
+              Category data is analysed throughout the table and filled using if function
+3. Removing Duplicates:
+              Duplicates are found by repeated date and deleted
+4. Splitting and Merging Data:
+              Data are splitted using right, left functions 
+              merege using concatenate formula
+5. Number Formatting:
+              Price and date formatted by using the home tab and number tab
+6. Conditional Formatting:
+               Price and category are highlighted using Conditional Fomatting and color tabs 
