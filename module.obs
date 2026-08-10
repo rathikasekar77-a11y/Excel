@@ -1,0 +1,7 @@
+Excel Module
+   *Started to clean the 4 Sheets by filling blanks using the most repeated values and Average 
+   *checking if any data Is repeated or not 
+   *Combine the table using the Vlookup syntax
+   *analyse the sales data and using some common sum if and count function to analyse
+   *Get some impotant data ftom the data set create tables and convert it into a pivot tables
+   *create some charts from the pivot table and using slicers to make the data into a interactive Dashboard.   
